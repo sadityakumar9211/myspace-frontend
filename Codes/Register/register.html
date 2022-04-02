@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="register_app.css">
+    <link rel="icon" href="../landing/logo.png">
+    <title>MySpace - Sign In</title>
+
+</head>
+
+<body>
+
+    <div class="center">
+        <div>
+            <a href="../landing/landing.html">
+                <img src="../landing/logo.png" class="w-12 h-12 ml-12 mt-1 mb-2 mr-1 inline-block" alt="MySpace logo">
+            </a>
+            <p class="text-gray-900 text-xl font-medium title-font mt-10 inline-block">Register with MySpace</p>
+        </div>
+        <form method="post">
+            <div class="txt_field">
+                <input type="text" required>
+                <label>Full Name</label>
+            </div>
+            <div class="txt_field">
+                <input type="email" pattern=".+@iiitm\.ac\.in" required>
+                <label>Institutional E-Mail</label>
+            </div>
+            <div class="txt_field">
+                <label for="year">Year</label>
+                <input type="number" min="2017" max="2022" step="1" value="" />
+            </div>
+
+            <label for="batchType"></label>
+
+            <div class="flex justify-center">
+                <div class="mb-3 xl:w-96">
+                  <select class="form-select appearance-none
+                    block
+                    w-full
+                    px-3
+                    py-1.5
+                    text-base
+                    font-normal
+                    text-gray-700
+                    bg-white bg-clip-padding bg-no-repeat
+                    border border-solid border-gray-300
+                    rounded
+                    transition
+                    ease-in-out
+                    m-0
+                    focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" aria-label="Default select example">
+                      <option selected>--Select Batch--</option>
+                      <option value="BCS">BCS</option>
+                      <option value="IMT">IMT</option>
+                      <option value="IMG">IMG</option>
+                  </select>
+                </div>
+              </div>
+
+
+            <div class="txt_field">
+                <input type="password" required>
+                <label>Password</label>
+            </div>
+            <div class="txt_field">
+                <input type="password" required>
+                <label>Confirm Password</label>
+            </div>
+            <div class="pass">Forgot Password?</div>
+
+            <input type="submit" value="Login" class="mb-2">
+            <hr>
+            <div class="text-gray-900 text-xl title-font text-center mt-2 mb-2">OR</div>
+            <div>
+                <a href="#">
+                    <img src="../Login/google_signin_buttons/web/2x/btn_google_signin_light_normal_web@2x.png"
+                        alt="Google Sign In Button" class="w-48 h-15 m-auto">
+                </a>
+            </div>
+            <div class="signup_link ">
+                Already Registered? <a href="../Login/login.html">Log In</a>
+            </div>
+        </form> -->
+
+
+        
+
+</body>
+
+</html>

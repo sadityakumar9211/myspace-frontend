@@ -1,0 +1,10 @@
+https://www.section.io/engineering-education/creating-a-responsive-navigation-bar-using-tailwind-css-and-javascript/
+For making a navbar menu active, add this attribute: 
+    class="py-4 px-2 text-green-500  border-b-4 border-green-500 font-semibold"
+       
+    In the mobile view
+    block text-sm px-2 py-4 text-white bg-green-500 font-semibold
+
+
+To color a button with gradients
+class="bg-gradient-to-r from-green-400 via-lime-500 to-blue-500"
