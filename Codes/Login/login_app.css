@@ -8,10 +8,9 @@
 body{
   margin: 0;
   padding: 0;
-  background: lavender;
+  background: linear-gradient(lavender, rgb(204, 234, 253), rgb(253, 244, 244));
   height: 100vh;
   overflow: hidden;
-  background-image:none;
 }
 .center{
   position: absolute;
