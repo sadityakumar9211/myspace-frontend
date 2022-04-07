@@ -1,9 +1,5 @@
-hr{
-    width:75%;
-    margin: auto auto;
-}
-.question{
-    background-color: #fafafa;
+.que{
+    background-color: #f4f4f4;
     padding-top: 8px;
     padding-bottom: 8px;
     padding-right: 6px;
@@ -14,18 +10,18 @@ hr{
     font-family: 'Raleway', sans-serif;
     font-size: normal;
     font-weight: thin;
-    box-shadow: 1px 1px 3px rgb(165, 165, 165);
+    box-shadow:1px 1px 3px rgb(165, 165, 165); ;
 }
-.question:hover{
-    background-color: #f4f2f2;
-    box-shadow: 1px 1px 3px rgb(165, 165, 165);
-    transform: scale(1.003);
+.que:hover{
+    background-color: #ececec;
+    box-shadow: 2px 2px 4px rgb(165, 165, 165);
+    transform: scale(1.001);
 }
-.Ids{
+.questionId{
     color:rgb(125, 71, 187);
     margin-right: 10px;
-    font-weight: 300;
 }
-.Ids:hover{
+.questionId:hover{
     text-decoration: underline;
+    font-weight: 500;
 }
