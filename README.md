@@ -6,4 +6,4 @@
  
    Abishekh Yadav (2020BCS-003)       
    Aditya Kumar Singh (2020BCS-004)  
-   Anamika Malik (2020BCS-075)        
+   Anamika Mallick (2020BCS-075)        
