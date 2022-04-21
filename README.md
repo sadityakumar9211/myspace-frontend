@@ -1,6 +1,7 @@
 # MySpace
  MySpace is a socio-academic site for IIITM students
- This is a group Project.
+ This is the frontend part of a group project
+ #### The frontend part can be found at: https://github.com/bcsabhisekh/MySpace
  
   Members in the group are:
  
