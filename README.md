@@ -1,8 +1,8 @@
 # MySpace
  MySpace is a socio-academic site for IIITM students
- You can visit the site at: [MySpace](https://mighty-fjord-39866.herokuapp.com/)
- This is the frontend codebase for MySpace Group Project.
- ### The full codebase can be found at: https://github.com/bcsabhisekh/MySpace
+ You can visit the site at: [MySpace](https://mighty-fjord-39866.herokuapp.com/)  
+ This is the frontend codebase for MySpace Group Project.  
+ ### The full codebase can be found at: https://github.com/bcsabhisekh/MySpace  
  
  ### Group Members
   
